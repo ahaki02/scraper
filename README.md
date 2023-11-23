@@ -4,7 +4,7 @@
 
 ##OERVIEW
 
- This project is a web scraping tool that extracts 10 000 car prices from a popular Dubai car website. 
+ This project is a web scraping tool that extracts 10,000 car prices from a popular Dubai car website. 
  
  The goal is to gather a substantial amount of car price data for analysis, statistics, or comparison
 
